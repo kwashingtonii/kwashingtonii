@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[Active Home Directory Lab](https://www.udemy.com/certificate/UC-4b2cdb9a-9f1d-4bc0-9add-d6140ffedeaf/)
+[Active Home Directory Lab](https://github.com/kwashingtonii/ActiveDirectoryLab/tree/main)
 
 [TryHackMe SOC Level 1](https://www.udemy.com/certificate/UC-4b2cdb9a-9f1d-4bc0-9add-d6140ffedeaf/)
 
