@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[Active Home Directory Lab](https://github.com/kwashingtonii/ActiveDirectoryLab/tree/main)
+[Botium Toys Security Audit](https://docs.google.com/document/d/1DTOmCrSIdLQa18XyGPmv79RWW3dZ_qu8nyAcGY20CkI/edit?usp=sharing)
 
 [TryHackMe SOC Level 1](https://www.udemy.com/certificate/UC-4b2cdb9a-9f1d-4bc0-9add-d6140ffedeaf/)
 
