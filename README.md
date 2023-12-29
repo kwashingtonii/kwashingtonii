@@ -11,6 +11,9 @@
 
 [Network Traffic Anaylsis Report](https://docs.google.com/document/d/1HtblVykX9BpVi9gkyyhP76jbt6LrJ5IN3gPa7vwjqsw/edit?usp=sharing)
 
+[File Permissions in Linux](https://docs.google.com/document/d/1d3thXohXadfSadUQEjOdRbKA5HIKXLiCC1Ua5hOQZDA/edit?usp=sharing)
+
+
 
 
 
@@ -20,7 +23,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How To Stop Procrastination](https://youtu.be/Xests1arClA?si=jPXXjLu3ZhbHk48d)
 
 
 <h2> 🤳 Connect with me:</h2>
